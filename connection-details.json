@@ -1,0 +1,9 @@
+{
+  "connectionString": "mstsc /v:4.tcp.us-cal-1.ngrok.io:12183 /u:runneradmin",
+  "establishedAt": 1758376903,
+  "username": "runneradmin",
+  "host": "tcp://4.tcp.us-cal-1.ngrok.io:12183",
+  "password": "P@ssw0rd!",
+  "status": "ready",
+  "provider": "ngrok"
+}
